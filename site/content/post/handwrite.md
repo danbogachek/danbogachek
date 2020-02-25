@@ -29,7 +29,7 @@ I continued to work on the handwriting quality, the handwriting robots, failed s
 
 I dropped out of UMD in January 2018 to pursue the venture full time. That summer, I changed the working name from Basereach to Handwrite - much more intutive, much cleaner. KISS. That was also the same summer when my first ever customer introduced me to a pair of angel investors. We raised a pre-seed round in October of 2018. I moved out of the shed and in with my girlfriend that December in time to meet the New Year.
 
-In August 2019, I met my co-founder [Will Wallace](https://www.linkedin.com/in/william-wallace-6578293a/). Truly a fantastic guy and a true professional. It's thanks to him that Handwrite looks like [this](https://www.handwrite.io) and is such a joy to use. In September, Handwrite moved out of me and my girlfriend's apartment and into a real office. We're sending thousands of cards a month, allowing our users to reach out and connect with their customers and clients with a human touch.
+In August 2019, I met my co-founder [Will Wallace](https://www.linkedin.com/in/william-wallace-6578293a/). Truly a fantastic guy and a true professional. It's thanks to him that Handwrite looks like [this](https://www.handwrite.io) and is such a joy to use. In September, Handwrite moved out of me and my girlfriend's apartment and into a real office. We're sending thousands of cards a month, connecting our users to their customers and clients with a human touch.
 
 More updates to come.
 
