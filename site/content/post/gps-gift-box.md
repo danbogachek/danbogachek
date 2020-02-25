@@ -9,7 +9,7 @@ Jan 2019
 {{< rawhtml >}}
     <div class="flex flex-wrap justify-center pv4">
     <div class="imgdiv"><img src="img/gps-gift-box/gps_thumbnail_downsized.png" class="ph3 pv2 square"></div>
-    <div class="imgdiv"><img src="img/gps-gift-box/open_lid.JPG" class="ph3 pv2 square rotate90"></div>
+    <div class="imgdiv"><img src="img/gps-gift-box/open_lid.JPG" class="ph3 pv2 square"></div>
     </div>
 {{< /rawhtml >}}
 
@@ -27,7 +27,7 @@ I made a box with a built in screen which prompts you to go outside. Once it acq
 {{< rawhtml >}}
     <div class="flex flex-wrap justify-center pv4">
     <div class="imgdiv"><img src="img/gps-gift-box/gps_guts.JPG" class="ph3 pv2 square"></div>
-    <div class="imgdiv"><img src="img/gps-gift-box/lid_guts.JPG" class="ph3 pv2 square rotate90"></div>
+    <div class="imgdiv"><img src="img/gps-gift-box/lid_guts.JPG" class="ph3 pv2 square"></div>
     </div>
 {{< /rawhtml >}}
 
@@ -41,8 +41,8 @@ For a next iteration, I would integrate everything save for the battery pack & l
 
 {{< rawhtml >}}
     <div class="flex flex-wrap justify-center pv4">
-    <div class="imgdiv"><img src="img/gps-gift-box/charging_cable.JPG" class="ph3 pv2 square rotate90"></div>
-    <div class="imgdiv"><img src="img/gps-gift-box/screen.JPG" class="ph3 pv2 square rotate90"></div>
+    <div class="imgdiv"><img src="img/gps-gift-box/charging_cable.JPG" class="ph3 pv2 square"></div>
+    <div class="imgdiv"><img src="img/gps-gift-box/screen.JPG" class="ph3 pv2 square"></div>
     </div>
 {{< /rawhtml >}}
 
