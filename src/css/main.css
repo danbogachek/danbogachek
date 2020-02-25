@@ -85,3 +85,23 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+html{
+    background: white;
+}
+
+img.square{
+  width: 275px;
+  height: auto;
+}
+
+.rotate90{
+    transform: rotate(90deg);
+}
+
+a:active, a:focus, a:visited, a:link{
+    outline: 0 !important;
+    border: none !important;
+  }
+
+

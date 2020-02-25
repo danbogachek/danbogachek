@@ -1,0 +1,30 @@
+<div class="bg-off-white pt3 pb5">
+    <div class="center tc">
+        <p class="f5 tc " style="margin: 1em auto;">Recent Projects</p>
+    </div>
+    <div class="w-80 center tc">
+
+        <div class="flex mhn2-ns mb3 flex-wrap justify-center">
+            {{ range .projects }}
+            <a href="/post/{{.post}}" class="no-underline dim">
+                <div class="w-30-ns pa2 ma3 h5 dt" style="background:linear-gradient(
+                                    rgba(20,20,20, .7), 
+                                    rgba(20,20,20, .5)),
+                                    url({{.thumbnail}});
+                                    position: relative;
+                                    background-size: {{.thumbnailSize}};
+                                    background-position: {{.thumbnailPosition}};
+                                    background-repeat: no-repeat;
+                                    height: 250px;
+                                    width: 250px;
+                                    border-radius: 0.5em;">
+
+                    <p class="white pa2 f6 tc dtc v-mid">{{ .title }}</p>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+
+
+    </div>
+</div>

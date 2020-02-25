@@ -1,0 +1,16 @@
+<a href="{{ .RelPermalink }}">
+    <div class="w-30-ns pa2 ma3 h5 dt" style="background:linear-gradient(
+                    rgba(20,20,20, .7), 
+                    rgba(20,20,20, .5)),
+                    url({{.thumbnail}});
+                    position: relative;
+                    background-size: {{.thumbnailSize}};
+                    background-position: {{.thumbnailPosition}};
+                    background-repeat: no-repeat;
+                    height: 250px;
+                    width: 250px;
+                    border-radius: 0.5em;">
+
+        <p class="white pa2 f6 tc dtc v-mid">{{ .Title }}</p>
+    </div>
+</a>
