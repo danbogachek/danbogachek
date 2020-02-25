@@ -15,12 +15,6 @@ As I type this, Handwrite is approaching 4 years since its inception.
 
 Mid-May 2016, I bussed up to New York to visit my good friend, killer developer and entrepreneur [Jackson Geller](https://www.linkedin.com/in/jacksongeller/). As we were catching up, he showed me a website called Bond.co. It was a service that let you send out 'handwritten' cards, written by robots with pen and paper. They let you select from a number of TrueType fonts that mimicked the real thing, type in your message, and send a card completely digitally.
 
-{{< rawhtml >}}
-    <div class="flex flex-wrap justify-center pv4">
-    <div class="imgdiv"><img src="https://martechtoday.com/wp-content/uploads/2018/08/Bond-note_jpzejq.png" class="pv2 w-100"></div>
-    </div>
-{{< /rawhtml >}}
-
 We were intrigued by the potential to create a more authentic, realistic handwriting and to do it in a more scalable way. So we decided that we wanted to take a stab at it - 6 weeks, we said. We'll be able to do it.
 
 Jackson selflessly put in time and money, backing the venture for an entire year as I worked out kinks in our own handwriting machine while living out of a shed, worked on creating an algorithm to realistically synthesize handwriting from scratch, and figured out which market segment to pursue (don't do what I did, have this question answered first). We amicably agreed that it was becoming more difficult for him to continue putting in time and effort after his crazy days at a startup job. It was taking longer than expected, and it was very hardware-heavy. In January of 2017, I opened up Basereach LLC. I can't thank Jackson enough.
